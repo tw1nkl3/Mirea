@@ -1,0 +1,2 @@
+if check('gold', x, y):
+                return 'take'

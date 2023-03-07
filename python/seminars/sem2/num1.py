@@ -1,0 +1,11 @@
+print(int(42))
+print(int(0b101010))
+print(int(0x2a))
+print(int(0o52))
+print(float(42))
+arr = [42]
+print(arr[0])
+print(21 << 1)
+print(84 >> 1)
+print(ord("*"))
+print('42')
